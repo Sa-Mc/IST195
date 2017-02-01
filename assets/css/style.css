@@ -1,4 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
 body { 
   background: #434A54;
   padding: 0;
@@ -12,14 +12,14 @@ body {
 }
 .logo {
   font-weight: 400;
-	font-family: 'Montserrat';
+	font-family: 'Montserrat', sans-serif;
   color: #E6E9ED;
   font-size: 80px;
   position: relative;
   margin: 0;
 }
 
-.at {
+.word {
   color: #3BAFDA;
 }
 
